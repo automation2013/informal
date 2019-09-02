@@ -93,7 +93,7 @@
     };
     // Slider
     var sliderMain = function () {
-        $('#falcon-hero .flexslider').flexslider({
+        var slider = $('#falcon-hero .flexslider').flexslider({
             animation: "fade",
             slideshowSpeed: 5000,
             directionNav: true,
@@ -109,6 +109,8 @@
                     $('.slider-text').removeClass('animated fadeInUp');
                     $('.flex-active-slide').find('.slider-text').addClass('animated fadeInUp');
                 }, 500);
+                slider.flexslider("pause");
+                slider.flexslider("play");
             }
         });
     };
