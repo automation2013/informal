@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="113c12d2-a7f2-47ba-97c7-f0b4e6cef68e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目04贤聚私人会所.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目04贤聚私人会所-simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/website/css/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,12 +16,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/website/项目04贤聚私人会所-simple.html">
+        <entry file="file://$PROJECT_DIR$/website/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <state relative-caret-position="421">
+              <caret line="102" column="90" selection-start-line="102" selection-start-column="90" selection-end-line="102" selection-end-column="90" />
+              <folding>
+                <element signature="e#3348#3354#0" expanded="true" />
+                <element signature="e#3354#3360#0" expanded="true" />
+                <element signature="e#3360#3366#0" expanded="true" />
+                <element signature="e#3366#3372#0" expanded="true" />
+                <element signature="e#3624#3630#0" expanded="true" />
+                <element signature="e#3630#3636#0" expanded="true" />
+                <element signature="e#3636#3642#0" expanded="true" />
+                <element signature="e#3642#3648#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="1909" column="24" selection-start-line="1909" selection-start-column="24" selection-end-line="1909" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -67,6 +84,8 @@
         <option value="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html" />
         <option value="$PROJECT_DIR$/xx.html" />
         <option value="$PROJECT_DIR$/website/项目04贤聚私人会所-simple.html" />
+        <option value="$PROJECT_DIR$/website/css/style.css" />
+        <option value="$PROJECT_DIR$/website/about.html" />
       </list>
     </option>
   </component>
@@ -77,16 +96,16 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,10 +118,17 @@
               <item name="informal" type="462c0819:PsiDirectoryNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="informal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="informal" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,7 +182,8 @@
       <workItem from="1567853330905" duration="653000" />
       <workItem from="1567854012466" duration="914000" />
       <workItem from="1567854984954" duration="1571000" />
-      <workItem from="1567858925938" duration="1286000" />
+      <workItem from="1567858925938" duration="1504000" />
+      <workItem from="1567869673560" duration="905000" />
     </task>
     <task id="LOCAL-00001" summary="创纪文化子目录完事儿">
       <created>1567853179938</created>
@@ -221,11 +248,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567859175200</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="项目4">
+      <created>1567860376579</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1567860376579</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5074000" />
+    <option name="totallyTimeSpent" value="6197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="6" />
@@ -264,7 +298,8 @@
     <MESSAGE value="项目03 框架" />
     <MESSAGE value="项目03 完成" />
     <MESSAGE value="div标签丢了" />
-    <option name="LAST_COMMIT_MESSAGE" value="div标签丢了" />
+    <MESSAGE value="项目4" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/website/css/bootstrap.css">
@@ -402,17 +437,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xx.html">
+    <entry file="file://$PROJECT_DIR$/xx.html" />
+    <entry file="file://$PROJECT_DIR$/website/项目04贤聚私人会所-simple.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="297">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/项目04贤聚私人会所-simple.html">
+    <entry file="file://$PROJECT_DIR$/website/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        <state relative-caret-position="554">
+          <caret line="1909" column="24" selection-start-line="1909" selection-start-column="24" selection-end-line="1909" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="102" column="90" selection-start-line="102" selection-start-column="90" selection-end-line="102" selection-end-column="90" />
+          <folding>
+            <element signature="e#3348#3354#0" expanded="true" />
+            <element signature="e#3354#3360#0" expanded="true" />
+            <element signature="e#3360#3366#0" expanded="true" />
+            <element signature="e#3366#3372#0" expanded="true" />
+            <element signature="e#3624#3630#0" expanded="true" />
+            <element signature="e#3630#3636#0" expanded="true" />
+            <element signature="e#3636#3642#0" expanded="true" />
+            <element signature="e#3642#3648#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

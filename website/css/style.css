@@ -1904,3 +1904,8 @@ hr {
 .bottom-text{
     margin-bottom: 10px;
 }
+
+.about-thinker{
+    padding-top: 5px;
+    font-weight: normal;
+}
