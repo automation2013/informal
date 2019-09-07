@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="113c12d2-a7f2-47ba-97c7-f0b4e6cef68e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/contact.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,30 +19,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/website/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="66" column="96" selection-start-line="66" selection-start-column="96" selection-end-line="66" selection-end-column="96" />
+            <state relative-caret-position="359">
+              <caret line="76" column="96" selection-start-line="76" selection-start-column="96" selection-end-line="76" selection-end-column="96" />
               <folding>
-                <element signature="e#3498#3504#0" expanded="true" />
-                <element signature="e#3504#3510#0" expanded="true" />
-                <element signature="e#3510#3516#0" expanded="true" />
-                <element signature="e#3516#3522#0" expanded="true" />
-                <element signature="e#3522#3528#0" expanded="true" />
-                <element signature="e#3528#3534#0" expanded="true" />
-                <element signature="e#3534#3540#0" expanded="true" />
                 <element signature="e#3541#3547#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/projects.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="70" column="134" lean-forward="true" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="134" />
-              <folding>
-                <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#a#0;n#p#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,12 +142,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/website" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/website" />
       <recent name="$PROJECT_DIR$/website/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/website/images/common" />
+      <recent name="$PROJECT_DIR$/website" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -198,6 +181,8 @@
       <workItem from="1567869673560" duration="1733000" />
       <workItem from="1567871575122" duration="1459000" />
       <workItem from="1567873160256" duration="1746000" />
+      <workItem from="1567874977197" duration="230000" />
+      <workItem from="1567875330684" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="创纪文化子目录完事儿">
       <created>1567853179938</created>
@@ -304,20 +289,28 @@
       <option name="project" value="LOCAL" />
       <updated>1567874932507</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="删掉不要的图片">
+      <created>1567875190070</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1567875190070</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10230000" />
+    <option name="totallyTimeSpent" value="10477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31782946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31782946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32871014" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32871014" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -328,6 +321,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.39528432" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32871014" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -352,7 +346,8 @@
     <MESSAGE value="文件改名" />
     <MESSAGE value="合作伙伴" />
     <MESSAGE value="联系我们" />
-    <option name="LAST_COMMIT_MESSAGE" value="联系我们" />
+    <MESSAGE value="删掉不要的图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="删掉不要的图片" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/website/css/bootstrap.css">
@@ -386,11 +381,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/projects-single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-877" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/website/projects-single.html" />
     <entry file="file://$PROJECT_DIR$/website/项目02创纪管家-南昆山诺宜温泉度假酒店-single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
@@ -531,8 +522,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/website/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="70" column="134" lean-forward="true" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="134" />
+        <state relative-caret-position="645">
+          <caret line="70" column="134" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="134" />
           <folding>
             <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -540,19 +531,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/website/images/common/loader.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/images/post.jpg" />
+    <entry file="file://$PROJECT_DIR$/website/post.html" />
     <entry file="file://$PROJECT_DIR$/website/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="66" column="96" selection-start-line="66" selection-start-column="96" selection-end-line="66" selection-end-column="96" />
+        <state relative-caret-position="359">
+          <caret line="76" column="96" selection-start-line="76" selection-start-column="96" selection-end-line="76" selection-end-column="96" />
           <folding>
-            <element signature="e#3498#3504#0" expanded="true" />
-            <element signature="e#3504#3510#0" expanded="true" />
-            <element signature="e#3510#3516#0" expanded="true" />
-            <element signature="e#3516#3522#0" expanded="true" />
-            <element signature="e#3522#3528#0" expanded="true" />
-            <element signature="e#3528#3534#0" expanded="true" />
-            <element signature="e#3534#3540#0" expanded="true" />
             <element signature="e#3541#3547#0" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
