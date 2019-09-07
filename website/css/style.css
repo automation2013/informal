@@ -482,7 +482,7 @@ input[type="checkbox"] {
 
 #falcon-hero {
     min-height: 560px;
-    background: #fff url("../images/loader.gif") no-repeat center center;
+    background: #fff url("../images/common/loader.gif") no-repeat center center;
     width: 100%;
     float: left;
     margin-bottom: 0;
