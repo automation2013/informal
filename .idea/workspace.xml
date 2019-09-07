@@ -1,9 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc8f973c-23aa-4777-9e3a-4001836231c8" name="Default Changelist" comment="">
+    <list default="true" id="dc8f973c-23aa-4777-9e3a-4001836231c8" name="Default Changelist" comment="首页：1、完成修改">
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/伙伴创业基地/伙伴创业基地/伙伴创业空间02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/伙伴创业基地/伙伴创业基地/伙伴创业空间03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/伙伴创业基地/子项目logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/创纪文化-项目主页-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/创纪文化仲愷办公室/創紀文化仲愷辦公室/伙伴创业空间01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/创纪文化仲愷办公室/創紀文化仲愷辦公室/创纪文化办公室01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/创纪文化仲愷办公室/創紀文化仲愷辦公室/创纪文化办公室02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/创纪文化仲愷办公室/創紀文化仲愷辦公室/创纪文化办公室07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/创纪文化仲愷办公室/子项目logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/创纪文化简介(1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/文化作品/文化logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/文化作品/文化作品/丽日香榭里大街 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/文化作品/文化作品/丽日香榭里大街 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/文化作品/文化作品/西湖丽日湖畔生活改造 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目01创纪文化/文化作品/文化作品/西湖丽日湖畔生活改造 (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/MR.KK青年社区公寓/MR.KK青年公寓简介(1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/MR.KK青年社区公寓/MR.KK青年社区公寓/kk01.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/MR.KK青年社区公寓/MR.KK青年社区公寓/kk02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/MR.KK青年社区公寓/MR.KK青年社区公寓/kk03.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/MR.KK青年社区公寓/MR.KK青年社区公寓/kk04.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/MR.KK青年社区公寓/MR.KK青年社区公寓/kk05.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/MR.KK青年社区公寓/MR.KK青年社区公寓/kk06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/MR.KK青年社区公寓/MR.KK青年社区公寓/kk07.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/MR.KK青年社区公寓/MR.KK青年社区公寓/kk08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/MR.KK青年社区公寓/MR.KK青年社区公寓/kk09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/MR.KK青年社区公寓/MR.KK青年社区公寓/kk10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/MR.KK青年社区公寓/项目主图.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/创纪管家-项目主页-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/创纪管家简介(1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/南昆山诺宜温泉度假酒店/南昆山诺宜温泉度假酒店/南昆山諾宜度假公寓01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/南昆山诺宜温泉度假酒店/南昆山诺宜温泉度假酒店/南昆山諾宜度假公寓04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/南昆山诺宜温泉度假酒店/南昆山诺宜温泉度假酒店/南昆山諾宜度假公寓05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/南昆山诺宜温泉度假酒店/南昆山诺宜温泉度假酒店/南昆山諾宜度假公寓06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/南昆山诺宜温泉度假酒店/南昆山诺宜温泉度假酒店/南昆山諾宜度假公寓07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/南昆山诺宜温泉度假酒店/南昆山诺宜温泉度假酒店/南昆山諾宜度假公寓08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/南昆山诺宜温泉度假酒店/南昆山诺宜温泉度假酒店/南昆山諾宜度假公寓10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/南昆山诺宜温泉度假酒店/诺宜度假酒店简介(1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/南昆山诺宜温泉度假酒店/项目主图.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/汤泉半岛度假酒店/汤泉半岛独家酒店/汤泉半岛公寓05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/汤泉半岛度假酒店/汤泉半岛独家酒店/汤泉半岛公寓07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/汤泉半岛度假酒店/汤泉半岛独家酒店/汤泉半岛公寓08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/汤泉半岛度假酒店/项目主图.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/婦聯公益創投大賽11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/学院问答活动.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/惠州市委副书记，政法委书记李敏一行莅临指导03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/惠州市陈高燕副市长莅临指导调研04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/惠州市马安镇领导及企业莅临调研交流05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/校企聯動.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/水口青年共建委员会调研指导06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/開學季hey我的大學11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/開學季hey我的大學12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/青年创新创业基地“不忘初心”活动10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/青年創新創業基地開幕式01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/青年創新創業基地開幕式02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/顺丰考察09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/香港新港人菁英侨青代表交流团07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地活动/基地活动/香港新港人菁英侨青代表交流团08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地简介/基地简介/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地简介/基地简介/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地简介/基地简介/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地简介/基地简介/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/基地简介/项目主图.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/青年创业孵化基地-项目主页logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/青年创业孵化基地简介(1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目04贤聚私人会所/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目04贤聚私人会所/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目04贤聚私人会所/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目04贤聚私人会所/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目04贤聚私人会所/贤聚私人会所logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目04贤聚私人会所/贤聚私人会所短片.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/projects/项目04贤聚私人会所/贤聚私人会所简介(1).docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/images/index/slider/01.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/images/index/slider/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/images/index/slider/02.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/images/index/slider/02.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/projects.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,36 +92,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/website/index.html">
+        <entry file="file://$PROJECT_DIR$/website/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="60" column="78" selection-start-line="60" selection-start-column="78" selection-end-line="60" selection-end-column="78" />
-              <folding>
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/projects-single.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/index1.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/services.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3000">
-              <caret line="200" column="109" selection-start-line="197" selection-start-column="34" selection-end-line="200" selection-end-column="109" />
+            <state relative-caret-position="410">
+              <caret line="82" column="105" selection-start-line="82" selection-start-column="105" selection-end-line="82" selection-end-column="105" />
             </state>
           </provider>
         </entry>
@@ -58,6 +107,7 @@
       <find>li</find>
       <find>Aam-theme</find>
       <find>h2</find>
+      <find>Portfolio01</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -67,13 +117,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/website/css/style.css" />
-        <option value="$PROJECT_DIR$/website/projects.html" />
         <option value="$PROJECT_DIR$/website/about.html" />
         <option value="$PROJECT_DIR$/website/blog.html" />
         <option value="$PROJECT_DIR$/website/contact.html" />
         <option value="$PROJECT_DIR$/website/projects-single.html" />
         <option value="$PROJECT_DIR$/website/services.html" />
         <option value="$PROJECT_DIR$/website/index.html" />
+        <option value="$PROJECT_DIR$/website/projects-single11.html" />
+        <option value="$PROJECT_DIR$/website/projects-single111.html" />
+        <option value="$PROJECT_DIR$/website/projects.html" />
       </list>
     </option>
   </component>
@@ -93,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,17 +158,10 @@
               <item name="informal" type="462c0819:PsiDirectoryNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="informal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="informal" type="462c0819:PsiDirectoryNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,7 +208,8 @@
       <updated>1567825935996</updated>
       <workItem from="1567825937189" duration="1731000" />
       <workItem from="1567827736887" duration="1132000" />
-      <workItem from="1567845031822" duration="62000" />
+      <workItem from="1567845031822" duration="737000" />
+      <workItem from="1567846837957" duration="1519000" />
     </task>
     <task id="LOCAL-00001" summary="改文案">
       <created>1567828129249</created>
@@ -171,15 +218,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567828129250</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="首页：1、完成修改">
+      <created>1567845201547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567845201547</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2925000" />
+    <option name="totallyTimeSpent" value="5119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -205,20 +258,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="改文案" />
-    <option name="LAST_COMMIT_MESSAGE" value="改文案" />
+    <MESSAGE value="首页：1、完成修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="首页：1、完成修改" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="dart-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/website/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="1904" column="23" selection-start-line="1904" selection-start-column="23" selection-end-line="1904" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1712">
-          <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -243,16 +299,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="60" column="78" selection-start-line="60" selection-start-column="78" selection-end-line="60" selection-end-column="78" />
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/projects-single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -267,6 +313,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3000">
           <caret line="200" column="109" selection-start-line="197" selection-start-column="34" selection-end-line="200" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="60" column="84" selection-start-line="60" selection-start-column="84" selection-end-line="60" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/projects-single1111.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="56" column="104" selection-start-line="56" selection-start-column="100" selection-end-line="56" selection-end-column="104" />
+          <folding>
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/projects-single11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="63" column="53" selection-start-line="63" selection-start-column="53" selection-end-line="63" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/projects-single111.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="58" column="109" selection-start-line="58" selection-start-column="109" selection-end-line="58" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="82" column="105" selection-start-line="82" selection-start-column="105" selection-end-line="82" selection-end-column="105" />
         </state>
       </provider>
     </entry>
