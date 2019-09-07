@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="113c12d2-a7f2-47ba-97c7-f0b4e6cef68e" name="Default Changelist" comment="成果及作品 完成">
+    <list default="true" id="113c12d2-a7f2-47ba-97c7-f0b4e6cef68e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/website/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/achievements.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/achievements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/partners.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/index1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/projects-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/projects-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目01创纪文化-伙伴创业基地-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目01创纪文化-伙伴创业基地-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目01创纪文化-创纪文化仲愷办公室-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目01创纪文化-创纪文化仲愷办公室-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目01创纪文化-文化作品-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目01创纪文化-文化作品-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目01创纪文化.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目01创纪文化.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目02创纪管家-南昆山诺宜温泉度假酒店-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目02创纪管家-南昆山诺宜温泉度假酒店-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目02创纪管家-汤泉半岛度假酒店-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目02创纪管家-汤泉半岛度假酒店-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目02创纪管家.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目02创纪管家.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目03青年创业孵化基地.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目03青年创业孵化基地.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目04贤聚私人会所-simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目04贤聚私人会所-simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/partners.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/website/achievements.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="448">
@@ -48,6 +29,29 @@
                 <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="59" column="80" lean-forward="true" selection-start-line="59" selection-end-line="60" />
+              <folding>
+                <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/website/partners.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="129" column="34" selection-start-line="129" selection-start-column="34" selection-end-line="129" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -95,10 +99,11 @@
         <option value="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html" />
         <option value="$PROJECT_DIR$/xx.html" />
         <option value="$PROJECT_DIR$/website/css/style.css" />
-        <option value="$PROJECT_DIR$/website/about.html" />
         <option value="$PROJECT_DIR$/website/项目04贤聚私人会所-simple.html" />
         <option value="$PROJECT_DIR$/website/services.html" />
         <option value="$PROJECT_DIR$/website/achievements.html" />
+        <option value="$PROJECT_DIR$/website/about.html" />
+        <option value="$PROJECT_DIR$/website/partners.html" />
       </list>
     </option>
   </component>
@@ -191,7 +196,8 @@
       <workItem from="1567854984954" duration="1571000" />
       <workItem from="1567858925938" duration="1504000" />
       <workItem from="1567869673560" duration="1733000" />
-      <workItem from="1567871575122" duration="1387000" />
+      <workItem from="1567871575122" duration="1459000" />
+      <workItem from="1567873160256" duration="527000" />
     </task>
     <task id="LOCAL-00001" summary="创纪文化子目录完事儿">
       <created>1567853179938</created>
@@ -277,11 +283,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567872770539</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="文件改名">
+      <created>1567873112667</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1567873112667</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8412000" />
+    <option name="totallyTimeSpent" value="9011000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
@@ -323,7 +336,8 @@
     <MESSAGE value="项目4" />
     <MESSAGE value="关于我们" />
     <MESSAGE value="成果及作品 完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="成果及作品 完成" />
+    <MESSAGE value="文件改名" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件改名" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/website/css/bootstrap.css">
@@ -428,26 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
-          <folding>
-            <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#3347#3353#0" expanded="true" />
-            <element signature="e#3353#3359#0" expanded="true" />
-            <element signature="e#3359#3365#0" expanded="true" />
-            <element signature="e#3365#3371#0" expanded="true" />
-            <element signature="e#3623#3629#0" expanded="true" />
-            <element signature="e#3629#3635#0" expanded="true" />
-            <element signature="e#3635#3641#0" expanded="true" />
-            <element signature="e#3641#3647#0" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/projects.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -510,6 +504,25 @@
             <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="59" column="80" lean-forward="true" selection-start-line="59" selection-end-line="60" />
+          <folding>
+            <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/partners.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="129" column="34" selection-start-line="129" selection-start-column="34" selection-end-line="129" selection-end-column="34" />
         </state>
       </provider>
     </entry>
