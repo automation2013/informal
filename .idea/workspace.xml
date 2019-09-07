@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="113c12d2-a7f2-47ba-97c7-f0b4e6cef68e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/项目01创纪文化.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目01创纪文化.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/项目02创纪管家.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目02创纪管家.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/项目03青年创业孵化基地.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目03青年创业孵化基地.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/项目04贤聚私人会所.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目04贤聚私人会所.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,12 +18,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="63" column="103" selection-start-line="63" selection-start-column="103" selection-end-line="63" selection-end-column="103" />
+            <state relative-caret-position="276">
+              <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/website/项目04贤聚私人会所.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+              <folding>
+                <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,19 +65,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/website/项目01创纪文化.html" />
         <option value="$PROJECT_DIR$/website/项目01创纪文化-文化作品-single.html" />
         <option value="$PROJECT_DIR$/website/项目01创纪文化-创纪文化仲愷办公室-single.html" />
         <option value="$PROJECT_DIR$/website/projects.html" />
-        <option value="$PROJECT_DIR$/website/项目04贤聚私人会所.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓.html" />
-        <option value="$PROJECT_DIR$/website/项目02创纪管家.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓-single.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家-南昆山诺宜温泉度假酒店-single.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家-汤泉半岛度假酒店-single.html" />
-        <option value="$PROJECT_DIR$/website/项目03青年创业孵化基地.html" />
         <option value="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html" />
         <option value="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html" />
+        <option value="$PROJECT_DIR$/website/项目01创纪文化.html" />
+        <option value="$PROJECT_DIR$/website/项目02创纪管家.html" />
+        <option value="$PROJECT_DIR$/website/项目03青年创业孵化基地.html" />
+        <option value="$PROJECT_DIR$/website/项目04贤聚私人会所.html" />
       </list>
     </option>
   </component>
@@ -143,7 +165,8 @@
       <workItem from="1567852578995" duration="650000" />
       <workItem from="1567853330905" duration="653000" />
       <workItem from="1567854012466" duration="914000" />
-      <workItem from="1567854984954" duration="1484000" />
+      <workItem from="1567854984954" duration="1571000" />
+      <workItem from="1567858925938" duration="225000" />
     </task>
     <task id="LOCAL-00001" summary="创纪文化子目录完事儿">
       <created>1567853179938</created>
@@ -194,11 +217,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567856138309</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="项目03 完成">
+      <created>1567856516774</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567856516774</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3701000" />
+    <option name="totallyTimeSpent" value="4013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="6" />
@@ -235,7 +265,8 @@
     <MESSAGE value="项目02创纪管家 轮廓" />
     <MESSAGE value="项目02完事儿" />
     <MESSAGE value="项目03 框架" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目03 框架" />
+    <MESSAGE value="项目03 完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目03 完成" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/website/css/bootstrap.css">
@@ -265,13 +296,6 @@
     <entry file="file://$PROJECT_DIR$/website/项目01创纪文化-伙伴创业基地-single.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="75" column="54" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/services.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-39">
@@ -279,24 +303,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/项目04贤聚私人会所.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="84" column="216" selection-start-line="84" selection-start-column="216" selection-end-line="84" selection-end-column="216" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/项目01创纪文化-文化作品-single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
           <caret line="63" column="45" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/项目01创纪文化.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="66" column="32" lean-forward="true" selection-end-line="125" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -309,13 +319,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/项目02创纪管家.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="79" column="30" lean-forward="true" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -345,13 +348,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/项目03青年创业孵化基地.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="70" column="97" selection-start-line="70" selection-start-column="93" selection-end-line="70" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
@@ -363,6 +359,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="63" column="103" selection-start-line="63" selection-start-column="103" selection-end-line="63" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/项目02创纪管家.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/项目01创纪文化.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/项目03青年创业孵化基地.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/项目04贤聚私人会所.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+          <folding>
+            <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
