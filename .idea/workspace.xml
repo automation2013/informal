@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="113c12d2-a7f2-47ba-97c7-f0b4e6cef68e" name="Default Changelist" comment="projects一级文件改文案">
+    <list default="true" id="113c12d2-a7f2-47ba-97c7-f0b4e6cef68e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/MR.KK青年社区公寓/MR.KK青年公寓简介(1).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/南昆山诺宜温泉度假酒店/诺宜度假酒店简介(1).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/images/projects/项目04贤聚私人会所/~$私人会所简介(1).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/images/projects/项目04贤聚私人会所/贤聚私人会所简介(1).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目02创纪管家-南昆山诺宜温泉度假酒店-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目02创纪管家-南昆山诺宜温泉度假酒店-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/项目02创纪管家-汤泉半岛度假酒店-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目02创纪管家-汤泉半岛度假酒店-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,50 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/项目02创纪管家.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="79" column="30" lean-forward="true" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/website/项目02创纪管家-汤泉半岛度假酒店-single.html">
+        <entry file="file://$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/项目02创纪管家-南昆山诺宜温泉度假酒店-single.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
-              <folding>
-                <element signature="e#3802#3808#0" expanded="true" />
-                <element signature="e#3808#3814#0" expanded="true" />
-                <element signature="e#3814#3820#0" expanded="true" />
-                <element signature="e#3820#3826#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓-single.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="73" column="30" lean-forward="true" selection-start-line="70" selection-start-column="24" selection-end-line="73" selection-end-column="30" />
-              <folding>
-                <element signature="e#4128#4134#0" expanded="true" />
-                <element signature="e#4134#4140#0" expanded="true" />
-                <element signature="e#4140#4146#0" expanded="true" />
-                <element signature="e#4146#4152#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="194">
+              <caret line="63" column="103" selection-start-line="63" selection-start-column="103" selection-end-line="63" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -91,13 +47,15 @@
         <option value="$PROJECT_DIR$/website/项目01创纪文化-文化作品-single.html" />
         <option value="$PROJECT_DIR$/website/项目01创纪文化-创纪文化仲愷办公室-single.html" />
         <option value="$PROJECT_DIR$/website/projects.html" />
-        <option value="$PROJECT_DIR$/website/项目03青年创业孵化基地.html" />
         <option value="$PROJECT_DIR$/website/项目04贤聚私人会所.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓-single.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家-南昆山诺宜温泉度假酒店-single.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家-汤泉半岛度假酒店-single.html" />
+        <option value="$PROJECT_DIR$/website/项目03青年创业孵化基地.html" />
+        <option value="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html" />
+        <option value="$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html" />
       </list>
     </option>
   </component>
@@ -152,8 +110,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/website" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/website" />
+      <recent name="$PROJECT_DIR$/website/js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -181,7 +143,7 @@
       <workItem from="1567852578995" duration="650000" />
       <workItem from="1567853330905" duration="653000" />
       <workItem from="1567854012466" duration="914000" />
-      <workItem from="1567854984954" duration="731000" />
+      <workItem from="1567854984954" duration="1484000" />
     </task>
     <task id="LOCAL-00001" summary="创纪文化子目录完事儿">
       <created>1567853179938</created>
@@ -218,11 +180,25 @@
       <option name="project" value="LOCAL" />
       <updated>1567854948561</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="项目02完事儿">
+      <created>1567855779027</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567855779028</updated>
+    </task>
+    <task id="LOCAL-00007" summary="项目03 框架">
+      <created>1567856138309</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567856138309</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2948000" />
+    <option name="totallyTimeSpent" value="3701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="6" />
@@ -257,7 +233,9 @@
     <MESSAGE value="projects一级文件拷贝" />
     <MESSAGE value="projects一级文件改文案" />
     <MESSAGE value="项目02创纪管家 轮廓" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目02创纪管家 轮廓" />
+    <MESSAGE value="项目02完事儿" />
+    <MESSAGE value="项目03 框架" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目03 框架" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/website/css/bootstrap.css">
@@ -301,13 +279,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/项目03青年创业孵化基地.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="312" selection-start-line="84" selection-start-column="312" selection-end-line="84" selection-end-column="312" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/项目04贤聚私人会所.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -334,23 +305,17 @@
         <state relative-caret-position="-877" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/website/项目02创纪管家-汤泉半岛度假酒店-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/website/项目02创纪管家.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="79" column="30" lean-forward="true" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓-single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="73" column="30" lean-forward="true" selection-start-line="70" selection-start-column="24" selection-end-line="73" selection-end-column="30" />
-          <folding>
-            <element signature="e#4128#4134#0" expanded="true" />
-            <element signature="e#4134#4140#0" expanded="true" />
-            <element signature="e#4140#4146#0" expanded="true" />
-            <element signature="e#4146#4152#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -367,10 +332,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/项目02创纪管家-汤泉半岛度假酒店-single.html">
+    <entry file="file://$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓-single.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
+        <state relative-caret-position="283">
+          <caret line="73" column="30" lean-forward="true" selection-start-line="70" selection-start-column="24" selection-end-line="73" selection-end-column="30" />
+          <folding>
+            <element signature="e#4128#4134#0" expanded="true" />
+            <element signature="e#4134#4140#0" expanded="true" />
+            <element signature="e#4140#4146#0" expanded="true" />
+            <element signature="e#4146#4152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/项目03青年创业孵化基地.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="70" column="97" selection-start-line="70" selection-start-column="93" selection-end-line="70" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/项目03青年创业孵化基地-基地活动-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="64" column="113" selection-start-line="64" selection-start-column="113" selection-end-line="64" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="63" column="103" selection-start-line="63" selection-start-column="103" selection-end-line="63" selection-end-column="103" />
         </state>
       </provider>
     </entry>
