@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="113c12d2-a7f2-47ba-97c7-f0b4e6cef68e" name="Default Changelist" comment="首页改版">
+    <list default="true" id="113c12d2-a7f2-47ba-97c7-f0b4e6cef68e" name="Default Changelist" comment="去掉 贤聚私人会所">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/website/projects.html" afterPath="$PROJECT_DIR$/website/projects.html" />
-      <change beforePath="$PROJECT_DIR$/website/项目01创纪文化.html" afterPath="$PROJECT_DIR$/website/项目01创纪文化.html" />
+      <change beforePath="$PROJECT_DIR$/website/images/about/1.CEO罗鑫.jpg" afterPath="$PROJECT_DIR$/website/images/about/1.CEO罗鑫.jpg" />
+      <change beforePath="$PROJECT_DIR$/website/images/about/2.關總...jpg" afterPath="$PROJECT_DIR$/website/images/about/2.關總...jpg" />
+      <change beforePath="$PROJECT_DIR$/website/images/about/3.詹总..jpg" afterPath="$PROJECT_DIR$/website/images/about/3.詹总..jpg" />
+      <change beforePath="$PROJECT_DIR$/website/images/about/’关于我们‘得封面.jpg" afterPath="$PROJECT_DIR$/website/images/about/’关于我们‘得封面.jpg" />
+      <change beforePath="$PROJECT_DIR$/website/images/index/slider/01.jpg" afterPath="$PROJECT_DIR$/website/images/index/slider/01.jpg" />
+      <change beforePath="$PROJECT_DIR$/website/images/index/slider/02.jpg" afterPath="$PROJECT_DIR$/website/images/index/slider/02.jpg" />
+      <change beforePath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/创纪管家-项目主页-logo.jpg" afterPath="$PROJECT_DIR$/website/images/projects/项目02创纪管家/创纪管家-项目主页-logo.jpg" />
+      <change beforePath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/青年创业孵化基地-项目主页logo.jpg" afterPath="$PROJECT_DIR$/website/images/projects/项目03青年创业孵化基地/青年创业孵化基地-项目主页logo.jpg" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,56 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="66" column="45" lean-forward="true" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
-              <folding>
-                <element signature="n#style#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="projects.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/projects.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="79" column="30" lean-forward="false" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="项目01创纪文化.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/website/项目01创纪文化.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="82" column="78" lean-forward="false" selection-start-line="82" selection-start-column="78" selection-end-line="82" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="96" column="77" lean-forward="true" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="77" />
-              <folding>
-                <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,8 +50,8 @@
       <find>通讯地址</find>
       <find>mail</find>
       <find>MP4</find>
-      <find>falcon-recent-projects</find>
       <find>about-thinker</find>
+      <find>falcon-recent-projects</find>
     </findStrings>
     <replaceStrings>
       <replace>办公室</replace>
@@ -193,6 +150,13 @@
               <item name="website" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="informal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="informal" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -266,7 +230,7 @@
       <workItem from="1567957825079" duration="1782000" />
       <workItem from="1567959640755" duration="584000" />
       <workItem from="1568697953017" duration="1424000" />
-      <workItem from="1568721154030" duration="851000" />
+      <workItem from="1568721154030" duration="1596000" />
     </task>
     <task id="LOCAL-00001" summary="创纪文化子目录完事儿">
       <created>1567853179938</created>
@@ -415,17 +379,25 @@
       <option name="project" value="LOCAL" />
       <updated>1568721697882</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="去掉 贤聚私人会所">
+      <created>1568725773533</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1568725773533</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15298000" />
+    <option name="totallyTimeSpent" value="16043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="6" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22198732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -435,7 +407,6 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -473,7 +444,8 @@
     <MESSAGE value="背景色" />
     <MESSAGE value="替换图标" />
     <MESSAGE value="首页改版" />
-    <option name="LAST_COMMIT_MESSAGE" value="首页改版" />
+    <MESSAGE value="去掉 贤聚私人会所" />
+    <option name="LAST_COMMIT_MESSAGE" value="去掉 贤聚私人会所" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -493,18 +465,18 @@
         <state relative-caret-position="1110">
           <caret line="74" column="75" lean-forward="false" selection-start-line="74" selection-start-column="75" selection-end-line="74" selection-end-column="75" />
           <folding>
-            <element signature="e#3503#3509#0" expanded="true" />
-            <element signature="e#3509#3515#0" expanded="true" />
-            <element signature="e#3515#3521#0" expanded="true" />
-            <element signature="e#3521#3527#0" expanded="true" />
-            <element signature="e#3607#3613#0" expanded="true" />
-            <element signature="e#3613#3619#0" expanded="true" />
-            <element signature="e#3685#3691#0" expanded="true" />
-            <element signature="e#3691#3697#0" expanded="true" />
-            <element signature="e#3697#3703#0" expanded="true" />
-            <element signature="e#3703#3709#0" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3850#3856#0" expanded="true" />
+            <element signature="e#3503#3509#0" expanded="false" />
+            <element signature="e#3509#3515#0" expanded="false" />
+            <element signature="e#3515#3521#0" expanded="false" />
+            <element signature="e#3521#3527#0" expanded="false" />
+            <element signature="e#3607#3613#0" expanded="false" />
+            <element signature="e#3613#3619#0" expanded="false" />
+            <element signature="e#3685#3691#0" expanded="false" />
+            <element signature="e#3691#3697#0" expanded="false" />
+            <element signature="e#3697#3703#0" expanded="false" />
+            <element signature="e#3703#3709#0" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#p#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#3850#3856#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -661,18 +633,18 @@
         <state relative-caret-position="75">
           <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding>
-            <element signature="e#3503#3509#0" expanded="true" />
-            <element signature="e#3509#3515#0" expanded="true" />
-            <element signature="e#3515#3521#0" expanded="true" />
-            <element signature="e#3521#3527#0" expanded="true" />
-            <element signature="e#3607#3613#0" expanded="true" />
-            <element signature="e#3613#3619#0" expanded="true" />
-            <element signature="e#3685#3691#0" expanded="true" />
-            <element signature="e#3691#3697#0" expanded="true" />
-            <element signature="e#3697#3703#0" expanded="true" />
-            <element signature="e#3703#3709#0" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3850#3856#0" expanded="true" />
+            <element signature="e#3503#3509#0" expanded="false" />
+            <element signature="e#3509#3515#0" expanded="false" />
+            <element signature="e#3515#3521#0" expanded="false" />
+            <element signature="e#3521#3527#0" expanded="false" />
+            <element signature="e#3607#3613#0" expanded="false" />
+            <element signature="e#3613#3619#0" expanded="false" />
+            <element signature="e#3685#3691#0" expanded="false" />
+            <element signature="e#3691#3697#0" expanded="false" />
+            <element signature="e#3697#3703#0" expanded="false" />
+            <element signature="e#3703#3709#0" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#p#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#3850#3856#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -682,19 +654,6 @@
         <state relative-caret-position="381">
           <caret line="320" column="12" lean-forward="false" selection-start-line="320" selection-start-column="1" selection-end-line="320" selection-end-column="12" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="66" column="45" lean-forward="true" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -709,11 +668,19 @@
     <entry file="file://$PROJECT_DIR$/website/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="96" column="77" lean-forward="true" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="77" />
+          <caret line="96" column="77" lean-forward="false" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="77" />
           <folding>
             <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/项目01创纪文化.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="77" column="30" lean-forward="true" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -725,11 +692,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/项目01创纪文化.html">
+    <entry file="file://$PROJECT_DIR$/website/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="82" column="78" lean-forward="false" selection-start-line="82" selection-start-column="78" selection-end-line="82" selection-end-column="78" />
-          <folding />
+        <state relative-caret-position="169">
+          <caret line="66" column="45" lean-forward="false" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
