@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="113c12d2-a7f2-47ba-97c7-f0b4e6cef68e" name="Default Changelist" comment="替换图标">
-      <change beforePath="" afterPath="$PROJECT_DIR$/website/images/achievements/侨青DEMO71.mp4" />
+    <list default="true" id="113c12d2-a7f2-47ba-97c7-f0b4e6cef68e" name="Default Changelist" comment="首页改版">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/website/achievements.html" afterPath="$PROJECT_DIR$/website/achievements.html" />
-      <change beforePath="$PROJECT_DIR$/website/index.html" afterPath="$PROJECT_DIR$/website/index.html" />
+      <change beforePath="$PROJECT_DIR$/website/projects.html" afterPath="$PROJECT_DIR$/website/projects.html" />
+      <change beforePath="$PROJECT_DIR$/website/项目01创纪文化.html" afterPath="$PROJECT_DIR$/website/项目01创纪文化.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,7 +18,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/website/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
@@ -34,11 +33,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="projects.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/projects.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="79" column="30" lean-forward="false" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="项目01创纪文化.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/website/项目01创纪文化.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="82" column="78" lean-forward="false" selection-start-line="82" selection-start-column="78" selection-end-line="82" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/website/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="74" column="26" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="74" selection-end-column="26" />
+            <state relative-caret-position="253">
+              <caret line="96" column="77" lean-forward="true" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="77" />
               <folding>
                 <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -68,13 +87,14 @@
       <find>img</find>
       <find>伙伴创业基地</find>
       <find>基地简介</find>
-      <find>about-thinker</find>
       <find>贤聚私人会所</find>
       <find>业多年</find>
       <find>项目&lt;/a&gt;&lt;/li&gt;</find>
       <find>通讯地址</find>
       <find>mail</find>
       <find>MP4</find>
+      <find>falcon-recent-projects</find>
+      <find>about-thinker</find>
     </findStrings>
     <replaceStrings>
       <replace>办公室</replace>
@@ -91,7 +111,6 @@
       <list>
         <option value="$PROJECT_DIR$/website/项目01创纪文化-文化作品-single.html" />
         <option value="$PROJECT_DIR$/website/项目01创纪文化-创纪文化仲愷办公室-single.html" />
-        <option value="$PROJECT_DIR$/website/projects.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家-南昆山诺宜温泉度假酒店-single.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家-汤泉半岛度假酒店-single.html" />
@@ -105,13 +124,14 @@
         <option value="$PROJECT_DIR$/website/项目04贤聚私人会所-simple.html" />
         <option value="$PROJECT_DIR$/website/about.html" />
         <option value="$PROJECT_DIR$/website/项目03青年创业孵化基地.html" />
-        <option value="$PROJECT_DIR$/website/项目01创纪文化.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家.html" />
         <option value="$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓-single.html" />
         <option value="$PROJECT_DIR$/website/css/style.css" />
         <option value="$PROJECT_DIR$/website/contact.html" />
         <option value="$PROJECT_DIR$/website/achievements.html" />
         <option value="$PROJECT_DIR$/website/index.html" />
+        <option value="$PROJECT_DIR$/website/projects.html" />
+        <option value="$PROJECT_DIR$/website/项目01创纪文化.html" />
       </list>
     </option>
   </component>
@@ -160,6 +180,12 @@
               <item name="informal" type="b2602c69:ProjectViewProjectNode" />
               <item name="informal" type="462c0819:PsiDirectoryNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="informal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="informal" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="informal" type="b2602c69:ProjectViewProjectNode" />
@@ -240,7 +266,7 @@
       <workItem from="1567957825079" duration="1782000" />
       <workItem from="1567959640755" duration="584000" />
       <workItem from="1568697953017" duration="1424000" />
-      <workItem from="1568721154030" duration="517000" />
+      <workItem from="1568721154030" duration="851000" />
     </task>
     <task id="LOCAL-00001" summary="创纪文化子目录完事儿">
       <created>1567853179938</created>
@@ -382,16 +408,23 @@
       <option name="project" value="LOCAL" />
       <updated>1568699721580</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="首页改版">
+      <created>1568721697882</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1568721697882</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14964000" />
+    <option name="totallyTimeSpent" value="15298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20014094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22198732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
@@ -439,7 +472,8 @@
     <MESSAGE value="文案等bug" />
     <MESSAGE value="背景色" />
     <MESSAGE value="替换图标" />
-    <option name="LAST_COMMIT_MESSAGE" value="替换图标" />
+    <MESSAGE value="首页改版" />
+    <option name="LAST_COMMIT_MESSAGE" value="首页改版" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -493,6 +527,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -562,13 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="70" column="134" lean-forward="false" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/images/post.jpg" />
     <entry file="file://$PROJECT_DIR$/website/post.html" />
     <entry file="file://$PROJECT_DIR$/website/项目03青年创业孵化基地-基地简介-single.html">
@@ -613,25 +641,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/项目01创纪文化.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/项目02创纪管家-MR.KK青年社区公寓-single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="72" column="57" lean-forward="false" selection-start-line="72" selection-start-column="57" selection-end-line="72" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2561">
-          <caret line="263" column="32" lean-forward="false" selection-start-line="263" selection-start-column="32" selection-end-line="263" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -672,17 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="74" column="26" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="74" selection-end-column="26" />
-          <folding>
-            <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -693,6 +695,41 @@
             <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="1907" column="14" lean-forward="false" selection-start-line="1907" selection-start-column="1" selection-end-line="1907" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="96" column="77" lean-forward="true" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="77" />
+          <folding>
+            <element signature="n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="79" column="30" lean-forward="false" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/项目01创纪文化.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="82" column="78" lean-forward="false" selection-start-line="82" selection-start-column="78" selection-end-line="82" selection-end-column="78" />
+          <folding />
         </state>
       </provider>
     </entry>
